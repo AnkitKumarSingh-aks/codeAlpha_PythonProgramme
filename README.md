@@ -1,2 +1,2 @@
 # codeAlpha_PythonProgramme
-Hangman game and chat-boat
+A CLI-based Hangman game allowing players 6 attempts to guess a randomly chosen word from a predefined list. using concept of random, while loops, string manipulation, if-else branching, set operations. and A simple conversational chatbot that evaluates user inputs and returns predefined responses using pattern matching. using Functions, string handling, state loops, conditional logic, datetime module integration.
